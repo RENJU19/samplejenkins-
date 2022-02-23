@@ -1,6 +1,6 @@
 
 
-Java application testing examples
+JAVA application testing examples
 =========================
 
 ### BUILD  
