@@ -53,7 +53,7 @@ alternative is to use Geb testing framework (https://github.com/geb/geb)
 
 PIT is configured in maven [src/pom/xml](src/pom/xml)and can be run with: `mvn pitest:mutationCoverage`
 
-* Code coverage report by Jacoco
+* Code coverage report by Jacob
 
 
 
